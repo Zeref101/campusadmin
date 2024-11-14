@@ -1,4 +1,4 @@
-# flutter_application_1
+# campusadmin
 
 A new Flutter project.
 
